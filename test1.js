@@ -12,7 +12,8 @@ function getRarityData(attributes) {
   //   },
   let totalRarityLvl = 0;
   const rarityData = attributes.map((attr) => {
-    const rarityLvl = parseInt(attr.value.replace(attr.trait_type, "") || '0');
+    const rarityLvl = (parseInt(attr.value.replace(attr.trait_type, "") || '1') - 1);
+    console.log(attr.trait_type, attr.value, rarityLvl)
     totalRarityLvl += rarityLvl;
     return { name: attr.trait_type, rarityLvl };
   });
@@ -38,31 +39,35 @@ async function loadImages(path) {
     });
   }
   console.log(imageData.map(d => d.rarityData));
+  return imageData;
 }
 
-loadImages("./NFAs").catch(console.error);
+const imageData = loadImages("./NFAs").catch(console.error);
 
-// (async () => {
-//     const browser = await puppeteer.launch({ headless: false });
-//     const page = await browser.newPage();
+(async () => {
+    const browser = await puppeteer.launch({ headless: false });
+    const page = await browser.newPage();
 
-//     async function submitFormOnce() {
-//         await page.goto('http://localhost:3000');
+    async function submitFormOnce(imageData) {
+        await page.goto('http://localhost:3000');
 
-//         await page.type('#name', 'Pavadinimas 1');
-//         await page.type('#description', 'Aprasymas 1');
-//         await page.click('#upload');
+        const elementHandle = await page.$("input[type=file]");
+        await elementHandle.uploadFile(imageData.file);
+        await page.type('#name', imageData.jsonData.name);
+        await page.type('#description', imageData.jsonData.description);
+        await page.type('#price', imageData.rarityData.lvl * 0.2);
+        await page.click('#upload');
 
-//         page
-//             .waitForSelector('#success')
-//             .then(async () => {
-//                 await page.goto('http://localhost:3000/upload');
-//                 iterations++;
-//                 if (iterations > 5) return;
-//                 submitFormOnce();
-//             })
-//     }
+        page
+            .waitForSelector('#success')
+            .then(async () => {
+                await page.goto('http://localhost:3000/upload');
+                imageData.shift();
+                if (imageData.length <=0) return;
+                submitFormOnce(imageData);
+            })
+    }
 
-//     submitFormOnce();
-//     //   await browser.close();
-// })();
+    submitFormOnce(imageData);
+    //   await browser.close();
+})();
