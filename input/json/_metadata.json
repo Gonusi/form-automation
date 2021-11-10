@@ -1,420 +1,580 @@
 [
   {
     "name": "Ethearal Wizard #1",
+    "filename": "1.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "e3e691c604f3d27278d40805aae78d2fff1d57f2",
+    "dna": "216d8381cc22c9ab565cd2b6b48fde53286c008d",
     "edition": 1,
-    "date": 1636303226784,
+    "date": 1636567977408,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat3"
+        "value": "hat_2"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #2",
+    "filename": "2.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "1d38a40dbc51462bbe6c4a1991ae7fbb7c77306e",
+    "dna": "79bfe0a124a8a63a0121e8926d71d7d308fffca4",
     "edition": 2,
-    "date": 1636303226981,
+    "date": 1636567977603,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_2"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_1"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_2"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #3",
+    "filename": "3.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "f6055ddf0cf6ea042f13ad2a66761ffc675f16cf",
+    "dna": "eb2b52751e3e3a668c50cd8560a8f9b9f0f20cc6",
     "edition": 3,
-    "date": 1636303227175,
+    "date": 1636567977805,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #4",
+    "filename": "4.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "ff599dd6f463af3443a54dc8663c99867406b9c1",
+    "dna": "68447d43479e3ea114fd07d8528982f2a071e5a8",
     "edition": 4,
-    "date": 1636303227387,
+    "date": 1636567978011,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_2"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_1"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_1"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #5",
+    "filename": "5.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "59ae563bf1bf5b08bec2d9e44003df6c5e86d9f7",
+    "dna": "997d090b3204e24ed81597459660ff5e91910b98",
     "edition": 5,
-    "date": 1636303227569,
+    "date": 1636567978179,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #6",
+    "filename": "6.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/6.png",
-    "dna": "126c44c567d39765745531e3b49a7129299f1ff2",
+    "dna": "63141edd54fd998f5fc45bede8c0c85a0ed1b0c6",
     "edition": 6,
-    "date": 1636303227748,
+    "date": 1636567978364,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background3"
+        "value": "background_2"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #7",
+    "filename": "7.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/7.png",
-    "dna": "9f7562a61ff66fad5c0de682bf77aea26e54acc7",
+    "dna": "f125049ece9aadb55b39797e094fa630f31d1984",
     "edition": 7,
-    "date": 1636303227929,
+    "date": 1636567978594,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_2"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #8",
+    "filename": "8.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/8.png",
-    "dna": "f49db32bd26746ada34ef2b26c866d9570bde274",
+    "dna": "09d8c19fc8361ae1b998a6312f61be26a5265746",
     "edition": 8,
-    "date": 1636303228118,
+    "date": 1636567979057,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes3"
+        "value": "clothes_1"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #9",
+    "filename": "9.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/9.png",
-    "dna": "5332303399f9828e7bd6771ff043f0dbda754f7e",
+    "dna": "f72861c135656f89887bbf8c685de8edefaab412",
     "edition": 9,
-    "date": 1636303228317,
+    "date": 1636567979255,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background1"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes3"
+        "value": "clothes_2"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_1"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #10",
+    "filename": "10.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/10.png",
-    "dna": "ce3841d8789ee1c3ae505d0deabd56685c82a91e",
+    "dna": "a7b31ab6ebbf39c745fb1e836c3488de53e6b936",
     "edition": 10,
-    "date": 1636303228496,
+    "date": 1636567979452,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_1"
       },
       {
         "trait_type": "hat",
-        "value": "hat2"
+        "value": "hat_0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #11",
+    "filename": "11.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/11.png",
-    "dna": "0a97ec87f36ba3fc7565c6321728f891fef9a497",
+    "dna": "7c9ef01f32b76322bf28775f5a58a1e5f1710815",
     "edition": 11,
-    "date": 1636303228676,
+    "date": 1636567979653,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_2"
       },
       {
         "trait_type": "hat",
-        "value": "hat3"
+        "value": "hat_1"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #12",
+    "filename": "12.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/12.png",
-    "dna": "41e7843fe04a117104ff8572e02aa8af44ff45fc",
+    "dna": "3184a8fad6c2baa0012b182bf2b1571fb30ad536",
     "edition": 12,
-    "date": 1636303228849,
+    "date": 1636567979862,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat3"
+        "value": "hat_1"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #13",
+    "filename": "13.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/13.png",
-    "dna": "64bb9ad746e6ad8767ac51a3dd3290d7c70d9fb4",
+    "dna": "94517cece3b803f05147cac84e78bf0c2ddd636c",
     "edition": 13,
-    "date": 1636303229039,
+    "date": 1636567980061,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background2"
+        "value": "background_0"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes2"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_2"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #14",
+    "filename": "14.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/14.png",
-    "dna": "ed1d1aa5174478d26609a7da211254cb420e8026",
+    "dna": "a990c40f5b3902b5e0749d0c5e51760d10cd8ea0",
     "edition": 14,
-    "date": 1636303229208,
+    "date": 1636567980246,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background3"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes1"
+        "value": "clothes_0"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_1"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
     "name": "Ethearal Wizard #15",
+    "filename": "15.png",
     "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
     "image": "ipfs://NewUriToReplace/15.png",
-    "dna": "14cd7d08923266f34e5b649bc252de3ae3594647",
+    "dna": "cb1ca67fe0ac77a078bbbae9eca8447cc69a16c8",
     "edition": 15,
-    "date": 1636303229380,
+    "date": 1636567980433,
     "creator": "Kasparas Anusauskas",
     "attributes": [
       {
         "trait_type": "background",
-        "value": "background3"
+        "value": "background_1"
       },
       {
         "trait_type": "body",
-        "value": "body"
+        "value": "body_0"
       },
       {
         "trait_type": "clothes",
-        "value": "clothes3"
+        "value": "clothes_2"
       },
       {
         "trait_type": "hat",
-        "value": "hat1"
+        "value": "hat_0"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Ethearal Wizard #16",
+    "filename": "16.png",
+    "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "7158e6b6d792d646b01f090ec34a1b006e7d68a8",
+    "edition": 16,
+    "date": 1636567980621,
+    "creator": "Kasparas Anusauskas",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_2"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_0"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "clothes_2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat_0"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Ethearal Wizard #17",
+    "filename": "17.png",
+    "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "6140cbc169844bd3b672e627073a07b7d325344e",
+    "edition": 17,
+    "date": 1636567980805,
+    "creator": "Kasparas Anusauskas",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_1"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_0"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "clothes_1"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Ethearal Wizard #18",
+    "filename": "18.png",
+    "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "7047a706b4071e0bed35b44a0fddc9ca1476e01e",
+    "edition": 18,
+    "date": 1636567980988,
+    "creator": "Kasparas Anusauskas",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_0"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_0"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "clothes_1"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Ethearal Wizard #19",
+    "filename": "19.png",
+    "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "fbd10e0afcd81091d36c9c7e02de6d6ca26bdbc1",
+    "edition": 19,
+    "date": 1636567981172,
+    "creator": "Kasparas Anusauskas",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_2"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_0"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "clothes_0"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat_1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Ethearal Wizard #20",
+    "filename": "20.png",
+    "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "fd8532b17e1dfc467eb5775c0e8c03ac8b2c3bde",
+    "edition": 20,
+    "date": 1636567981346,
+    "creator": "Kasparas Anusauskas",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "background_0"
+      },
+      {
+        "trait_type": "body",
+        "value": "body_0"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "clothes_2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "hat_2"
       }
     ],
     "compiler": "HashLips Art Engine"

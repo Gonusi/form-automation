@@ -1,27 +1,28 @@
 {
-  "name": "Ethearal Wizard #1",
+  "name": "Ethearal Wizard #5",
+  "filename": "5.png",
   "description": "The last wizards of our world are leaving. Buy the last glimpses of them, right at the door. ",
-  "image": "ipfs://NewUriToReplace/1.png",
-  "dna": "e3e691c604f3d27278d40805aae78d2fff1d57f2",
-  "edition": 1,
-  "date": 1636303226784,
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "997d090b3204e24ed81597459660ff5e91910b98",
+  "edition": 5,
+  "date": 1636567978179,
   "creator": "Kasparas Anusauskas",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "background1"
+      "value": "background_1"
     },
     {
       "trait_type": "body",
-      "value": "body"
+      "value": "body_0"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes2"
+      "value": "clothes_0"
     },
     {
       "trait_type": "hat",
-      "value": "hat3"
+      "value": "hat_0"
     }
   ],
   "compiler": "HashLips Art Engine"
